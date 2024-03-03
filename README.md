@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 Ich lerne gerade **VueJS.**
 
-- 💬 Frag mich nach **Laravel, PHP, PostgreSQL..**
+- 💬 Frag mich nach **Laravel, PHP, PostgreSQL, Livewire..**
 
 - 📫 Wie man mich erreicht **cristian181199@gmail.com**
 
