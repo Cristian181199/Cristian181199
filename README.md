@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 Derzeit arbeite ich daran  **meine Kenntnisse im Bereich der Webentwicklung zu verbessern.**
 
-- 🌱 Ich lerne gerade **VueJS.**
+- 🌱 Ich lerne gerade **NextJS.**
 
 - 💬 Frag mich nach **Laravel, PHP, PostgreSQL, Livewire..**
 
